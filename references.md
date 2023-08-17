@@ -1,5 +1,3 @@
-<<<<<<< my-resume
-## Job History
-=======
-## Jobs
->>>>>>> main
+# References
+
+* octocat 1 😈
